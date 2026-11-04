@@ -1,0 +1,262 @@
+[
+  {
+    "stage": 1,
+    "title": "첫 번째 추",
+    "stones": [
+      2,
+      10,
+      12,
+      21
+    ],
+    "reserve": 21,
+    "left_slots": 1,
+    "note": "새벽의 계량실 · 01"
+  },
+  {
+    "stage": 1,
+    "title": "바늘의 숨",
+    "stones": [
+      21,
+      17,
+      4,
+      11
+    ],
+    "reserve": 11,
+    "left_slots": 1,
+    "note": "새벽의 계량실 · 02"
+  },
+  {
+    "stage": 1,
+    "title": "작은 약속",
+    "stones": [
+      2,
+      18,
+      11,
+      9
+    ],
+    "reserve": 18,
+    "left_slots": 2,
+    "note": "새벽의 계량실 · 03"
+  },
+  {
+    "stage": 2,
+    "title": "두 사람의 몫",
+    "stones": [
+      18,
+      11,
+      5,
+      12,
+      13
+    ],
+    "reserve": 13,
+    "left_slots": 2,
+    "note": "청동 복도 · 04"
+  },
+  {
+    "stage": 2,
+    "title": "남겨둔 자리",
+    "stones": [
+      7,
+      8,
+      4,
+      13,
+      12
+    ],
+    "reserve": 4,
+    "left_slots": 2,
+    "note": "청동 복도 · 05"
+  },
+  {
+    "stage": 2,
+    "title": "빈 접시",
+    "stones": [
+      1,
+      8,
+      11,
+      19,
+      4
+    ],
+    "reserve": 19,
+    "left_slots": 2,
+    "note": "청동 복도 · 06"
+  },
+  {
+    "stage": 2,
+    "title": "잠긴 서랍",
+    "stones": [
+      6,
+      9,
+      19,
+      20,
+      7
+    ],
+    "reserve": 9,
+    "left_slots": 2,
+    "note": "청동 복도 · 07"
+  },
+  {
+    "stage": 3,
+    "title": "교차하는 무게",
+    "stones": [
+      18,
+      10,
+      7,
+      9,
+      17
+    ],
+    "reserve": 7,
+    "left_slots": 2,
+    "note": "유리 온실 · 08"
+  },
+  {
+    "stage": 3,
+    "title": "느린 저녁",
+    "stones": [
+      19,
+      7,
+      22,
+      6,
+      23
+    ],
+    "reserve": 19,
+    "left_slots": 2,
+    "note": "유리 온실 · 09"
+  },
+  {
+    "stage": 3,
+    "title": "봉인된 돌",
+    "stones": [
+      21,
+      17,
+      19,
+      18,
+      16
+    ],
+    "reserve": 17,
+    "left_slots": 2,
+    "note": "유리 온실 · 10"
+  },
+  {
+    "stage": 4,
+    "title": "낯선 합",
+    "stones": [
+      17,
+      13,
+      6,
+      11,
+      21,
+      18
+    ],
+    "reserve": 18,
+    "left_slots": 2,
+    "note": "밤의 보관소 · 11"
+  },
+  {
+    "stage": 4,
+    "title": "비밀 저울",
+    "stones": [
+      15,
+      16,
+      18,
+      7,
+      23,
+      13
+    ],
+    "reserve": 16,
+    "left_slots": 2,
+    "note": "밤의 보관소 · 12"
+  },
+  {
+    "stage": 4,
+    "title": "기억의 무게",
+    "stones": [
+      16,
+      10,
+      1,
+      4,
+      3,
+      14
+    ],
+    "reserve": 14,
+    "left_slots": 2,
+    "note": "밤의 보관소 · 13"
+  },
+  {
+    "stage": 4,
+    "title": "되돌아오는 손",
+    "stones": [
+      12,
+      15,
+      14,
+      10,
+      9,
+      7
+    ],
+    "reserve": 15,
+    "left_slots": 2,
+    "note": "밤의 보관소 · 14"
+  },
+  {
+    "stage": 4,
+    "title": "한 번 더",
+    "stones": [
+      15,
+      13,
+      6,
+      4,
+      18,
+      14
+    ],
+    "reserve": 14,
+    "left_slots": 3,
+    "note": "밤의 보관소 · 15"
+  },
+  {
+    "stage": 5,
+    "title": "긴 그림자",
+    "stones": [
+      22,
+      8,
+      17,
+      14,
+      18,
+      23,
+      21
+    ],
+    "reserve": 17,
+    "left_slots": 3,
+    "note": "별빛 저울 · 16"
+  },
+  {
+    "stage": 5,
+    "title": "마지막 예비",
+    "stones": [
+      6,
+      17,
+      21,
+      18,
+      15,
+      19,
+      16
+    ],
+    "reserve": 6,
+    "left_slots": 3,
+    "note": "별빛 저울 · 17"
+  },
+  {
+    "stage": 5,
+    "title": "수평의 문",
+    "stones": [
+      22,
+      10,
+      18,
+      3,
+      6,
+      19,
+      11
+    ],
+    "reserve": 3,
+    "left_slots": 3,
+    "note": "별빛 저울 · 18"
+  }
+]
